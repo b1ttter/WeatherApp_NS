@@ -1,0 +1,3 @@
+WeatherApp is a flexible weather analysis and visualization application built around Global Forecast System (GFS) data. It allows users to select forecast parameters (such as temperature, wind, pressure, precipitation, and more) and define a geographic area of interest to generate high-quality weather maps.
+
+The application provides extensive visualization controls, enabling users to modify color scales, contours, projections, and other rendering options to sui can be exported in multiple formats, making the tool suitable for research, reporting, and operational workflows.t analytical or presentation needs. Generated maps
